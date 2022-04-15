@@ -11,4 +11,5 @@ import UIKit
 struct FileTwo {
     let name: String
     let image: UIImage?
+    let detailedTitle: String
 }
