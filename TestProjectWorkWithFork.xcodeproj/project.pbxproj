@@ -14,6 +14,7 @@
 		04E6EBEA2809558600429FBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E6EBE92809558600429FBA /* Assets.xcassets */; };
 		04E6EBED2809558600429FBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E6EBEB2809558600429FBA /* LaunchScreen.storyboard */; };
 		04E6EBF52809577200429FBA /* FileOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E6EBF42809577200429FBA /* FileOne.swift */; };
+		04E6EBF7280957EA00429FBA /* FileTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E6EBF6280957EA00429FBA /* FileTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		04E6EBEC2809558600429FBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E6EBEE2809558600429FBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04E6EBF42809577200429FBA /* FileOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileOne.swift; sourceTree = "<group>"; };
+		04E6EBF6280957EA00429FBA /* FileTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,10 +64,11 @@
 				04E6EBE22809558100429FBA /* SceneDelegate.swift */,
 				04E6EBE42809558100429FBA /* ViewController.swift */,
 				04E6EBF42809577200429FBA /* FileOne.swift */,
+				04E6EBF6280957EA00429FBA /* FileTwo.swift */,
+				04E6EBEE2809558600429FBA /* Info.plist */,
 				04E6EBE62809558100429FBA /* Main.storyboard */,
 				04E6EBE92809558600429FBA /* Assets.xcassets */,
 				04E6EBEB2809558600429FBA /* LaunchScreen.storyboard */,
-				04E6EBEE2809558600429FBA /* Info.plist */,
 			);
 			path = TestProjectWorkWithFork;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				04E6EBE52809558100429FBA /* ViewController.swift in Sources */,
 				04E6EBE12809558100429FBA /* AppDelegate.swift in Sources */,
 				04E6EBF52809577200429FBA /* FileOne.swift in Sources */,
+				04E6EBF7280957EA00429FBA /* FileTwo.swift in Sources */,
 				04E6EBE32809558100429FBA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
